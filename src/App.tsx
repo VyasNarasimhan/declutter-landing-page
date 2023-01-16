@@ -35,7 +35,7 @@ function App() {
             <div className="grid grid-rows-2 text-center">
                 <div className="flex items-center justify-center">
                     <img src={github} className="h-6 w-6"></img>
-                    <a className="text-base font-light underline ml-1" href="https://github.com/VyasNarasimhan/productivity-extension" target="_blank">GitHub</a>
+                    <a className="text-base font-light underline ml-1" href="https://github.com/VyasNarasimhan/declutter" target="_blank">GitHub</a>
                 </div>
                 <p className="text-base font-light underline">Created by <a href="https://www.linkedin.com/in/vyas-narasimhan-5a6871209/" target="_blank">Vyas Narasimhan</a></p>
             </div>
