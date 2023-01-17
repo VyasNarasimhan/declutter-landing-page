@@ -5,7 +5,7 @@ import focus from './assets/focus.png';
 function App() {
     return (
         <div className="container m-auto">
-            <div className="py-10 lg:px-36 md:px-10">
+            <div className="p-10 lg:px-36">
                 <div className="text-center mb-5">
                     <p className="text-3xl font-bold mb-2">Welcome to <span className="text-green-700">Declutter</span>.</p>
                     <p className="text-lg font-light mb-2">The productivity chrome extension designed to make you aware of your browser distractions and help reduce their impact.</p>
