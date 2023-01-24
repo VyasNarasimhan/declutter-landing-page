@@ -9,8 +9,8 @@ function Home() {
                 <div className="text-center mb-5">
                     <p className="text-3xl font-bold mb-2">Welcome to <span className="text-green-700">Declutter</span>.</p>
                     <p className="text-lg font-light mb-2">The productivity chrome extension designed to make you aware of your browser distractions and help reduce their impact.</p>
-                    {/* <button type="button" className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2">Add to Chrome</button> */}
-                    <p className="text-base font-light mb-2">Coming soon...</p>
+                    <a type="button" className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2" href="https://chrome.google.com/webstore/detail/declutter/lfkbgeaahlmifjbnijpdkacjaainijmj" target="_blank">Add to Chrome</a>
+                    {/* <p className="text-base font-light mb-2">Coming soon...</p> */}
                 </div>
                 <div className="grid xl:grid-cols-2 gap-x-24 gap-y-16 lg:p-3 justify-center mb-5">
                     <img src={tracker} className="h-auto md:max-w-lg rounded-lg mx-auto xl:ml-auto shadow-xl"/>
